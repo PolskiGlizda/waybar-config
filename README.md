@@ -7,6 +7,7 @@ This is my waybar config that integrates preety well with [my hyprland config](h
  - [alacritty](https://github.com/alacritty/alacritty)
  - [pulseaudio](https://gitlab.freedesktop.org/pulseaudio/pulseaudio)
  - [pavucontrol](https://gitlab.freedesktop.org/pulseaudio/pavucontrol)
+ - [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts)
 # Instalation
 1. Install Requirements
 2. Make a backup of your current config
